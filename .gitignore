@@ -1,0 +1,6 @@
+# These files will be created automatically in the server.
+# So, we can ignore these files.
+
+/node_modules
+/dist
+.parcel-cache

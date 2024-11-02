@@ -1,0 +1,10 @@
+1. How we can write Hello World using html/ JS/ React
+2. CDN Links -> In html
+3. React.createElement() -> returns object {}
+4. ReactDOM
+5. render() -> Helps to put the {} to the html page.
+6. createElement("name of the tag", {"attributes like id, etc..."}, ["children"]) -> Array for multiple children/ For single children "".
+7. render() -> content will be replaced!
+8. If there's something on the top or the bottom of the html of content which we are rendering, we can change only the rendering content.
+9. React is a library not a framework.
+10. We can import react in anywhere.
