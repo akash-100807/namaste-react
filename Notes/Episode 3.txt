@@ -1,0 +1,8 @@
+1. Write a script instead of writing the excecuting syntax in the terminal "npx parcel index.html": 
+    - Create a script in the package.json : In the script object, add 
+      - "start" : "parcel index.html" -> This will be used to create/run a dev build project automatically without the npx parcel cmd in the terminal.
+      - "build" : "parcel build index.html" -> This will be used to create/run the project in the production environment
+      - After providing these in the json file to run the script -> In the terminal -> cmd: "npm run start" or "npm start"/"npm run build"
+
+2. Laying the Foundation for React App Building*****:
+    -
